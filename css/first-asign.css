@@ -259,6 +259,11 @@
 
     /* Footer section */
 
+    .feature-section {
+        /* width: 250px; */
+        margin-right: 250px;
+    }
+
     .feature-footer-section {
         display: flex;
         padding: 130px 230px;
