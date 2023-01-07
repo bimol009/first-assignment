@@ -81,11 +81,7 @@
         border-radius: 10px;
     }
 
-    .adreess-section:hover {
-        background: rgba(255, 212, 22, 0.842);
-        opacity: 0.8;
-        border-radius: 10px;
-    }
+ 
 
     .my-identity-section {
         display: flex;
