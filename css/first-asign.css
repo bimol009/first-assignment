@@ -95,6 +95,8 @@
         background-image: url('../images/banner/banner1.png');
         margin-top: 100px;
         border-radius: 5px;
+        background-repeat: no-repeat;
+        background-size: cover;
     }
 
     .plan-title-1 .title{
