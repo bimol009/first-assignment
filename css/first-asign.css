@@ -75,8 +75,14 @@
 
     /* My identy section  */
 
-    .adreess-section:hover {
+    .adreess-section {
         background: #fff;
+        opacity: 0.8;
+        border-radius: 10px;
+    }
+
+    .adreess-section:hover {
+        background: rgba(255, 212, 22, 0.842);
         opacity: 0.8;
         border-radius: 10px;
     }
@@ -86,7 +92,7 @@
         align-items: center;
         padding: 130px 320px 130px 206px;
         gap: 87px;
-        background-image: url('../images/banner/banner1.png'),url('../images/gradient2.png');
+        background-image: url('../images/banner/banner1.png');
         margin-top: 100px;
         border-radius: 5px;
     }
@@ -109,7 +115,7 @@
 
     .address-title .title-part{
         font-size: 45px;
-        font-weight: 700;
+        font-weight: 500;
         color: rgba(21, 20, 20, 1);
 
     }
@@ -118,7 +124,7 @@
 
         color: #222;
         font-size: 18px;
-        font-weight: 700;
+        font-weight: 500;
         Line-height: 26px;
         margin-top: 26px;
         margin-bottom: 16px;
