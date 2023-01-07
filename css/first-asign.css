@@ -73,6 +73,68 @@
 
     }
 
+    /* My identy section  */
+
+    .adreess-section:hover {
+        background: #fff;
+        opacity: 0.8;
+        border-radius: 10px;
+    }
+
+    .my-identity-section {
+        display: flex;
+        align-items: center;
+        padding: 130px 320px 130px 206px;
+        gap: 87px;
+        background-image: url('../images/banner/banner1.png'),url('../images/gradient2.png');
+        margin-top: 100px;
+        border-radius: 5px;
+    }
+
+    .plan-title-1 .title{
+
+        text-align: center;
+      
+        color: rgba(21, 20, 20, 1);
+        font-size: 40px;
+        font-weight: 700;
+        margin-top: 80px;
+    }
+
+    .my-id {
+        margin-top: 100px;
+        align-items: center;
+        text-align: center;
+    }
+
+    .address-title .title-part{
+        font-size: 45px;
+        font-weight: 700;
+        color: rgba(21, 20, 20, 1);
+
+    }
+
+    .address-title .address-description{
+
+        color: #222;
+        font-size: 18px;
+        font-weight: 700;
+        Line-height: 26px;
+        margin-top: 26px;
+        margin-bottom: 16px;
+
+    }
+
+    .address-title .description-2{
+        color: black;
+        font-size: 18px;
+        font-weight: 700;
+        Line-height: 26px;
+        margin-bottom: 24px;
+        
+
+    }
+
     /* Image -content-section */
 
     .image-content-section {
